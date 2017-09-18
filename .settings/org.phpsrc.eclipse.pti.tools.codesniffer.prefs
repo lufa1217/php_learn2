@@ -1,9 +1,0 @@
-active_standards=DrupalCodingStandard;MySource;PEAR;PHPCS;Squiz;TYPO3;TYPO3v4;Zend
-custom_standard_names=
-custom_standard_paths=
-default_tab_width=0
-eclipse.preferences.version=1
-file_extension=
-ignore_pattern=
-pear_library=<Internal>
-pref_ignore_sniffs=
