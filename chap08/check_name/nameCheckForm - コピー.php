@@ -14,7 +14,6 @@
   </ul>
   </form>
   <br>
-  <p>テスト</p>
 </div>
 </body>
 </html>
